@@ -7,12 +7,12 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - **[Educação Ambiental IFTO Colinas do Tocantins](https://michaeldouglasca.github.io/Educacao-Ambiental-IFTO-Colinas-do-Tocantins/)**: Um site simples para promover a conscientização ambiental, utilizando Bootstrap e customização de CSS.
 - **[Anime Streaming](https://ccg-studios.netlify.app/)**: Projeto de streaming de animes com layout responsivo e tema escuro.
 - **[Estúdios CCG](https://ccg-studios.netlify.app/)**: Website para jogos com uma interface moderna e responsiva.
-- **[Api_Manual-Rural](#)**: [Privada] API desenvolvida para uso em sistemas rurais com documentação detalhada.
+- **[Api_Manual-Rural](#)**: [Privada] - API desenvolvida para uso em sistemas rurais com documentação detalhada.
 - **[Sistema Bancário - Simples](https://github.com/MichaelDouglasCA/Sistema-Bancario)**: Sistema bancário desenvolvido em Java e JavaScript com funcionalidades completas de gerenciamento financeiro.
 
 ## 🛠 Tecnologias e Ferramentas
 
-- **Linguagens**: 
+- **Linguagens**:
   - JavaScript
   - Java
   - HTML
@@ -20,19 +20,22 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
   - Python
   - SQL
   - TypeScript
+  - PHP
 
-- **Frameworks e Bibliotecas**: 
+- **Frameworks**:
   - Bootstrap
   - Ionic
   - Angular
   - React
   - Vue.js
   - Express.js
+
+- **Bibliotecas**:
   - jQuery
   - D3.js
   - Chart.js
 
-- **Ferramentas e Tecnologias**: 
+- **Ferramentas e Tecnologias**:
   - Git
   - GitHub
   - GitLab
@@ -54,11 +57,11 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 📫 Como Entrar em Contato
 
-- **GitHub**: [https://github.com/MichaelDouglasCA](https://github.com/MichaelDouglasCA)
+- **GitHub**: [aqui](https://github.com/MichaelDouglasCA)
 
 ## 🎯 Objetivos
 
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento IA e explorar novas tecnologias. Estou sempre aberto a colaborar em projetos interessantes e a aprender coisas novas.
+Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de IA e explorar novas tecnologias. Estou sempre aberto a colaborar em projetos interessantes e a aprender coisas novas.
 
 Obrigado por visitar meu perfil! 🚀
 
