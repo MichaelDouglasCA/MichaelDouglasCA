@@ -55,14 +55,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 📫 Como Entrar em Contato
 
 - **GitHub**: [https://github.com/MichaelDouglasCA](https://github.com/MichaelDouglasCA)
-- **Email**: [seu-email@example.com](mailto:seu-email@example.com)
 
 ## 🎯 Objetivos
 
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento front-end e explorar novas tecnologias. Estou sempre aberto a colaborar em projetos interessantes e a aprender coisas novas.
+Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento IA e explorar novas tecnologias. Estou sempre aberto a colaborar em projetos interessantes e a aprender coisas novas.
 
 Obrigado por visitar meu perfil! 🚀
 
 ---
 
-*Este README foi gerado com amor e criatividade.*
+*Um verdadeiro mestre é um eterno aprendiz. - Master Yi*
