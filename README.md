@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - **[Estúdios CCG](https://ccg-studios.netlify.app/)**: 🎮 Website para jogos com uma interface moderna e responsiva.
 - **[Api_Manual-Rural](#)**: [Privada] - 🌾 API desenvolvida para uso em sistemas rurais com documentação detalhada.
 - **[Sistema Bancário - Simples](https://github.com/MichaelDouglasCA/Sistema-Bancario)**: 💳 Sistema bancário desenvolvido em Java e JavaScript com funcionalidades completas de gerenciamento financeiro.
-- **[Projeto: One Piece](#)**: 🏴‍☠️ Um site dedicado em animes em geral, com uma experiência imersiva e interativa, acessível para episódios e conteúdo relacionado ao mundo dos animesw.
+- **[Projeto: One Piece](#)**: [Privada] - 🏴‍☠️ Um site dedicado em animes em geral, com uma experiência imersiva e interativa, acessível para episódios e conteúdo relacionado ao mundo dos animes.
   
 ---
 ## 🛠 Tecnologias e Ferramentas
@@ -67,7 +67,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 📫 Como Entrar em Contato
 
-- 🐦 **Twitter** 𝕏  : [MichaelDouglasCA](https://x.com/MichaelCCG96710) 
+- 🐦 **Twitter** (𝕏) : [MichaelDouglasCA](https://x.com/MichaelCCG96710) 
 - 💼 **LinkedIn**: [MichaelDouglasCA](https://www.linkedin.com/in/michael-douglas/) 
 - ✉️ **Email**: [MichaelDouglasCA](mailto:michaeldouglascruzalves@gmail.com)
 ---
