@@ -68,7 +68,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 📫 Como Entrar em Contato
 
 - 🐦 **Twitter** (𝕏) : [MichaelDouglasCA](https://x.com/MichaelCCG96710) 
-- 💼 **LinkedIn**: [MichaelDouglasCA](https://www.linkedin.com/in/michael-douglas/) 
+- 💼 **LinkedIn**: [MichaelDouglasCA](https://www.linkedin.com/in/michael-douglas-cruz-alves-25238414b/) 
 - ✉️ **Email**: [MichaelDouglasCA](mailto:michaeldouglascruzalves@gmail.com)
 ---
 
