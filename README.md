@@ -1,9 +1,9 @@
----
-
 # 👑 Olá, sou Michael Douglas! 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia, com experiência em diversas áreas de desenvolvimento web e software. Aqui você encontrará uma coleção dos meus projetos mais recentes e interessantes.
+
 ---
+
 ## 🚀 Projetos em Destaque
 
 - **[Educação Ambiental IFTO Colinas do Tocantins](https://michaeldouglasca.github.io/Educacao-Ambiental-IFTO-Colinas-do-Tocantins/)**: 🌿 Um site simples para promover a conscientização ambiental, utilizando Bootstrap e customização de CSS.
@@ -11,8 +11,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - **[Api_Manual-Rural](#)**: [Privada] - 🌾 API desenvolvida para uso em sistemas rurais com documentação detalhada.
 - **[Sistema Bancário - Simples](https://github.com/MichaelDouglasCA/Sistema-Bancario)**: 💳 Sistema bancário desenvolvido em Java e JavaScript com funcionalidades completas de gerenciamento financeiro.
 - **[AnimesNexus](#)**: [Privada] - 🏴‍☠️ Um site dedicado em animes em geral, com uma experiência imersiva e interativa, acessível para episódios e conteúdo relacionado ao mundo dos animes.
-  
+
 ---
+
 ## 🛠 Tecnologias e Ferramentas
 
 ### 🧑‍💻 Linguagens
@@ -35,32 +36,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
-### 📚 Bibliotecas
+---
 
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=black)
-![Chart.js](https://img.shields.io/badge/-Chart.js-F53838?logo=chart.js&logoColor=white)
+## 📈 Estatísticas do GitHub
 
-### 🧰 Ferramentas e Tecnologias
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-F7DF1C?logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-00C7B7?logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white)
+![Commits](https://img.shields.io/github/commits-since/MichaelDouglasCA/MichaelDouglasCA.github.io/0.0.1?logo=github&logoColor=white&label=Commits)
+![Issues](https://img.shields.io/github/issues/MichaelDouglasCA/MichaelDouglasCA.github.io?logo=github&logoColor=white&label=Issues)
+![Pull Requests](https://img.shields.io/github/issues-pr/MichaelDouglasCA/MichaelDouglasCA.github.io?logo=github&logoColor=white&label=Pull%20Requests)
 
 ---
 
@@ -69,6 +51,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🐦 **Twitter** (𝕏) : [MichaelDouglasCA](https://x.com/MichaelCCG96710) 
 - 💼 **LinkedIn**: [MichaelDouglasCA](https://www.linkedin.com/in/michaeldouglasca/) 
 - ✉️ **Email**: [MichaelDouglasCA](mailto:michaeldouglascruzalves@gmail.com)
+
 ---
 
 ## 🎯 Objetivos
