@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## 🚀 Projetos em Destaque
 
 - **[Educação Ambiental IFTO Colinas do Tocantins](https://michaeldouglasca.github.io/Educacao-Ambiental-IFTO-Colinas-do-Tocantins/)**: 🌿 Um site criado para promover a conscientização ambiental, utilizando Bootstrap e customização de CSS.
-- **[Estúdios CCG](https://ccg-studios.netlify.app/)**: 🎮 Website para jogos com uma interface moderna e responsiva.
+- **[Estúdios CCG]()**: 🎮 Website para jogos com uma interface moderna e responsiva (Privada).
 - **[Api_Manual-Rural](#)**: 🌾 API desenvolvida para sistemas rurais, com documentação detalhada (Privada).
 - **[Sistema Bancário - Simples](https://github.com/MichaelDouglasCA/Sistema-Bancario)**: 💳 Sistema bancário em Java e JavaScript, com funcionalidades completas de gerenciamento financeiro.
 - **[AnimesNexus](#)**: 🏴‍☠️ Plataforma dedicada a animes, proporcionando uma experiência imersiva e interativa (Privada).
