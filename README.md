@@ -8,12 +8,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 🚀 Projetos em Destaque
 
+- **[Estúdios CCG](https://ccg-studios-company.netlify.app/)**: 🏢  Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e responsiva, destacando nossos projetos, serviços e a paixão por criar experiências interativas únicas.
 - **[Educação Ambiental IFTO Colinas do Tocantins](https://michaeldouglasca.github.io/Educacao-Ambiental-IFTO-Colinas-do-Tocantins/)**: 🌿 Um site criado para promover a conscientização ambiental, utilizando Bootstrap e customização de CSS.
-- **[Estúdios CCG]()**: 🎮 Website para jogos com uma interface moderna e responsiva (Privada).
 - **[Api_Manual-Rural](#)**: 🌾 API desenvolvida para sistemas rurais, com documentação detalhada (Privada).
-- **[Sistema Bancário - Simples](https://github.com/MichaelDouglasCA/Sistema-Bancario)**: 💳 Sistema bancário em Java e JavaScript, com funcionalidades completas de gerenciamento financeiro.
-- **[AnimesNexus](#)**: 🏴‍☠️ Plataforma dedicada a animes, proporcionando uma experiência imersiva e interativa (Privada).
-
+- **[Sistema Bancário - Simples](https://github.com/MichaelDouglasCA/Sistema-Bancario)**: 💳 Sistema bancário em Java e JavaScript, com funcionalidades completas de gerenciamento financeiro (Em desenvolvimento).
+- **[AnimesNexus](https://anime-mangas-nexus.netlify.app/)**: 🏴‍☠️ Plataforma dedicada a animes, proporcionando uma experiência imersiva e interativa (Site).
+- **[Nexus Cine](https://play.google.com/store/apps/details?id=ccgstudios.nexuscine.app)**:🎬 Aplicativo Android com interface gráfica intuitiva, projetado para oferecer uma experiência cinematográfica moderna. (App).
+  
 ---
 
 ## 🛠 Tecnologias e Ferramentas
