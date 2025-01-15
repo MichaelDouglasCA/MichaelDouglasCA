@@ -3,12 +3,13 @@
 # 👑 Olá, sou Michael Douglas! 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia, com experiência em diversas áreas de desenvolvimento web e software. Aqui você encontrará uma seleção dos meus projetos mais recentes e interessantes.
-
+---
+## **[Estúdios CCG](https://ccg-studios-company.netlify.app/)**: 🏢  Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e responsiva, destacando nossos projetos, serviços e a paixão por criar experiências interativas únicas.
 ---
 
 ## 🚀 Projetos em Destaque
 
-- **[Estúdios CCG](https://ccg-studios-company.netlify.app/)**: 🏢  Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e responsiva, destacando nossos projetos, serviços e a paixão por criar experiências interativas únicas.
+
 - **[Educação Ambiental IFTO Colinas do Tocantins](https://michaeldouglasca.github.io/Educacao-Ambiental-IFTO-Colinas-do-Tocantins/)**: 🌿 Um site criado para promover a conscientização ambiental, utilizando Bootstrap e customização de CSS.
 - **[Api_Manual-Rural](#)**: 🌾 API desenvolvida para sistemas rurais, com documentação detalhada (Privada).
 - **[Sistema Bancário - Simples](https://github.com/MichaelDouglasCA/Sistema-Bancario)**: 💳 Sistema bancário em Java e JavaScript, com funcionalidades completas de gerenciamento financeiro (Em desenvolvimento).
