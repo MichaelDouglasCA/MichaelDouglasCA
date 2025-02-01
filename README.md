@@ -17,7 +17,7 @@ Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e r
 - **[Educação Ambiental IFTO Colinas do Tocantins](https://michaeldouglasca.github.io/Educacao-Ambiental-IFTO-Colinas-do-Tocantins/)**: 🌿  
   Um site criado para promover a conscientização ambiental, utilizando Bootstrap e customização de CSS.
 
-- **[Api_Manual-Rural](#)**: 🌾  
+- **[Api_Manual-Rural](#)**: 🌾 [privada]
   API desenvolvida para sistemas rurais, com documentação detalhada (Privada).
 
 - **[Sistema Bancário - Simples](https://github.com/MichaelDouglasCA/Sistema-Bancario)**: 💳  
@@ -39,7 +39,8 @@ Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e r
 
 ## 🛠 Tecnologias e Ferramentas
 
-### 🧑‍💻 **Linguagens**
+### 🧑‍💻 Linguagens
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -49,7 +50,8 @@ Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e r
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
-### 🛠 **Frameworks**
+### 🛠 Frameworks
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
@@ -57,14 +59,17 @@ Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e r
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
-### 📚 **Bibliotecas**
+### 📚 Bibliotecas
+
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-F53838?logo=chart.js&logoColor=white)
 
-### 🧰 **Ferramentas e Tecnologias**
+### 🧰 Ferramentas e Tecnologias
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
