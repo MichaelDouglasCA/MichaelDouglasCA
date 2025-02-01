@@ -77,7 +77,7 @@ Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e r
 - 🐦 **Twitter** (𝕏): [MichaelDouglasCA](https://x.com/MichaelCCG96710)
 - 💼 **LinkedIn**: [MichaelDouglasCA](https://www.linkedin.com/in/michaeldouglasca/)
 - ✉️ **Email**: [MichaelDouglasCA](mailto:michaeldouglascruzalves@gmail.com)
-
+- 🧰 **NPM**: [MichaelDCA](https://www.npmjs.com/~michaeldca)
 ---
 
 ## 🎯 Objetivos
