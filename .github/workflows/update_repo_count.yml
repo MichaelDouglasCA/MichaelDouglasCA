@@ -14,7 +14,7 @@ jobs:
 
       - name: Obter Contagem de Repositórios
         run: |
-          TOTAL_REPOS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN_SECRET }}" \
+          TOTAL_REPOS=$(curl -s -H "Authorization: token ${{ secrets.TOKEN_SECRET }}" \
             https://api.github.com/user | jq '.public_repos + .total_private_repos')
           echo "TOTAL_REPOS=$TOTAL_REPOS" >> $GITHUB_ENV
 
