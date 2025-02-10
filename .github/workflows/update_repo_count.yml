@@ -1,0 +1,31 @@
+name: Update Repo Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa automaticamente todo dia à meia-noite UTC
+  workflow_dispatch:  # Permite rodar manualmente pela aba Actions
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v3
+
+      - name: Obter Contagem de Repositórios
+        run: |
+          TOTAL_REPOS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN_SECRET }}" \
+            https://api.github.com/user | jq '.public_repos + .total_private_repos')
+          echo "TOTAL_REPOS=$TOTAL_REPOS" >> $GITHUB_ENV
+
+      - name: Atualizar README.md
+        run: |
+          sed -i "s/🔢 Total de Repositórios:.*/🔢 Total de Repositórios: $TOTAL_REPOS/" README.md
+
+      - name: Commit e Push das Mudanças
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Atualizando número total de repositórios 🚀" || exit 0
+          git push
