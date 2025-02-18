@@ -87,7 +87,7 @@ Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e r
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white)
 
 ---
-🔢 Total de Repositórios: 11
+🔢 Total de Repositórios: 12
 ---
 
 ## 📫 Como Entrar em Contato
