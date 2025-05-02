@@ -14,7 +14,7 @@ Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e r
 - **[AnimeNexus](https://anime-mangas-nexus.netlify.app/)**: 🏴‍☠️  
   Plataforma dedicada a animes e mangás, proporcionando uma experiência imersiva e interativa com acesso a episódios, manga e muito mais.
   
-  - **[Dama](https://jogo-dama-web.netlify.app/)**: ♟️  
+- **[Dama](https://jogo-dama-web.netlify.app/)**: ♟️  
   Jogo de Damas online desenvolvido com HTML, CSS e JavaScript, permitindo partidas interativas entre dois jogadores em tempo real, com interface intuitiva e responsiva.
 
 - **[Educação Ambiental IFTO Colinas do Tocantins](https://michaeldouglasca.github.io/Educacao-Ambiental-IFTO-Colinas-do-Tocantins/)**: 🌿  
