@@ -7,6 +7,8 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## **[Estúdios CCG](https://ccg-studios-company.netlify.app/)**: 🏢  
 Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e responsiva, destacando nossos projetos, serviços e a paixão por criar experiências interativas únicas.
 
+## **[![Struckd](https://img.shields.io/badge/Struckd-Jogo%20Online-orange?style=for-the-badge&logo=unity&logoColor=white)](https://struckd.netlify.app)**
+
 ---
 
 ## 🚀 **Projetos em Destaque**
