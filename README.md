@@ -44,63 +44,58 @@ Sou um desenvolvedor FullStack com experiência em criar interfaces modernas e s
 
 ## 🚀 Projetos em Destaque
 
-- **[Estúdios CCG](https://github.com/MichaelDouglasCA/CCG-STUDIOS)** 🏢  
+## **[Estúdios CCG](https://ccg-studios-company.netlify.app/)**: 🏢    
   Website oficial do nosso grupo de desenvolvimento, com design responsivo e moderno. Inclui um banco de dados completo e complementos.  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-  *Última atualização: Maio 8, 2024*
 
-- **[AnimeNexus](https://github.com/MichaelDouglasCA/Projeto-Anime-Nexus)** 🏴‍☠️  
+
+- **[AnimeNexus](https://anime-mangas-nexus.netlify.app/)** 🏴‍☠️  
   Plataforma para fãs de animes e mangás, oferecendo uma experiência imersiva com streaming de vídeo. Inclui uma API backend robusta.  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  *Última atualização: Abril 9, 2024*
+  
 
-- **[Jogo de Damas Tocantins](https://github.com/MichaelDouglasCA/Jogo-de-Damas)** ♟️  
+- **[Jogo de Damas Tocantins](https://damas-tocantins.netlify.app/)** ♟️  
   Jogo de damas 2D online com partidas em tempo real e IA para jogos contra o computador, desenvolvido com Flutter e Flame.  
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) 
   ![Flame](https://img.shields.io/badge/-Flame-FFCA28?logo=flutter&logoColor=black)  
-  *Última atualização: Maio 2, 2024*
 
-- **[Educação Ambiental IFTO](https://github.com/MichaelDouglasCA/Educacao_Ambiental-IFTO-Colinas-do-Tocantins)** 🌿  
+
+- **[Educação Ambiental IFTO](https://michaeldouglasca.github.io/Educacao-Ambiental-IFTO-Colinas-do-Tocantins/)** 🌿  
   Site para conscientização ambiental com design acessível, criado para uma apresentação em 20/03/2024.  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-  *Última atualização: Outubro 3, 2024*
 
-- **[Nexus Cine](https://github.com/MichaelDouglasCA/Nexus_Cine)** 🎬  
+
+- **[Nexus Cine](https://play.google.com/store/apps/details?id=ccgstudios.nexuscine.app&pli=1)** 🎬  
   Aplicativo Android para uma experiência cinematográfica fluida, desenvolvido em TypeScript.  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
-  *Última atualização: Fevereiro 8, 2024*
+
 
 - **[Gerenciador de Produtos](https://github.com/MichaelDouglasCA/Gerenciador_de_Produtos)** 📦  
   Sistema de gerenciamento de produtos com operações CRUD, integrado ao MySQL via Hibernate.  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
   ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-  *Última atualização: Maio 2, 2024*
 
-- **[Sistema Bancário](https://github.com/MichaelDouglasCA/Sistema-Bancario)** 💳  
+
+- **[Sistema Bancário](#)** 💳  
   Sistema bancário em desenvolvimento com funcionalidades financeiras em tempo real.  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  *Última atualização: Setembro 3, 2024*
+  
 
 - **[Maskaras-CCG](https://github.com/MichaelDouglasCA/react-masks-lib)** 🎭  
   Biblioteca pública de máscaras de entrada para sistemas interativos, ideal para formulários dinâmicos.  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
-  *Última atualização: Fevereiro 8, 2024*
+ 
 
-- **[SAEB-QUIZ](https://github.com/MichaelDouglasCA/SAEB-QUIZ)** 📚  
+- **[SAEB-QUIZ](https://saeb-quiz.netlify.app/quiz.html)** 📚  
   Quiz educacional interativo baseado no Sistema de Avaliação da Educação Básica (SAEB).  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-  *Última atualização: Último mês*
-
-- **[Portfolio](https://github.com/MichaelDouglasCA/portfolio)** 🌐  
-  Meu portfólio pessoal online, com design simples e funcional para exibir meus projetos e habilidades.  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-  *Última atualização: Último mês*
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  
 
 ---
 
