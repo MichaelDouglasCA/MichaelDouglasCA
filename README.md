@@ -7,10 +7,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ## **[Estúdios CCG](https://ccg-studios-company.netlify.app/)**: 🏢  
 Website oficial do nosso grupo de desenvolvimento, com uma interface moderna e responsiva, destacando nossos projetos, serviços e a paixão por criar experiências interativas únicas.
 
-## **[![Struckd](https://img.shields.io/badge/Struckd-Jogo%20Online-orange?style=for-the-badge&logo=unity&logoColor=white)](https://struckd.netlify.app)**
-
 ---
 
+📊 Estatísticas
+
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=MichaelDouglasCA&#x26;show_icons=true&#x26;theme=tokyonight&#x26;include_all_commits=true&#x26;locale=pt-br">
+  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDouglasCA&#x26;theme=tokyonight&#x26;layout=compact&#x26;custom_title=Tecnologias&#x26;langs_count=9">
+  
 ## 🚀 **Projetos em Destaque**
 
 - **[AnimeNexus](https://anime-mangas-nexus.netlify.app/)**: 🏴‍☠️  
